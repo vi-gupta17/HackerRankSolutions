@@ -3,7 +3,7 @@ import java.util.*;
 
 
 
-public class Solution {
+public class TwoStackGameProblem {
 
     /*
      * Complete the twoStacks function below.
